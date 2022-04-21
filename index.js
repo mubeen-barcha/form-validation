@@ -53,6 +53,7 @@ function validate(){
     const person = [];
     person.push(name,phone,email,message)
     console.log(person)
+    
 
     // localStorage.setItem(person)
   }
