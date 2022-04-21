@@ -9,7 +9,7 @@ function validate(){
     
     var text;
     if(name.length < 5){
-      text = "Please Enter valid Name";
+      text = "Please Enter valid FullName";
       error_message.innerHTML = text;
       return false;
     }
